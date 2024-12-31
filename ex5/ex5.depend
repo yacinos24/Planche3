@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1735685711 source:c:\users\yassine\desktop\cpi2s1\c++\tp3\ex5\main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+
